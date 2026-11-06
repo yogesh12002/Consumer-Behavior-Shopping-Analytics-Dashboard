@@ -2,7 +2,7 @@
 
 An end-to-end interactive 3-page Power BI dashboard designed with a custom dark-mode neon theme to analyze customer demographics, omnichannel spending dynamics, behavioral attributes, and fulfillment logistics.
 
-![Dashboard Preview](Screenshot 2026-11-06 233526.png)
+![Dashboard Preview]([Screenshot 2026-11-06 233526.png](https://github.com/yogesh12002/Consumer-Behavior-Shopping-Analytics-Dashboard/blob/26e0fe2cf11e4e4e529a05b5e1542546620669cb/Screenshot%202026-11-06%20233526.png))
 
 ## 📌 Key Highlights & Features
 - **3-Page Dynamic Navigation:** Built-in custom neon UI container layouts for macro overview, granular segment deep-dives, and customer logistics.
